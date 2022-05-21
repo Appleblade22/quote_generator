@@ -31,12 +31,12 @@ p {
     width: 450px;
     padding: 40px;
     border-radius: 10px;
-    background-color: #ffffff;
+    background-color: #000000;
    
 }
 .heading{
     font-size: 30px;
-    color: #151116;
+    color: #ffffff;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -46,7 +46,7 @@ p {
 }
 #author{
     font-size: 20px;
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 20px;
     display: flex;
     justify-content: right;
@@ -64,7 +64,7 @@ p {
 }
 #text{
     font-size: 20px;
-    color: #000000;
+    color: #f9f9f9;
     margin-bottom: 20px;
 }
 #tweet-quote {
